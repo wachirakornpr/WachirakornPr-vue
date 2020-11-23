@@ -1,2 +1,2 @@
-# WachirakornPr-vue
+# WachirakornPr-js
 Created with CodeSandbox
